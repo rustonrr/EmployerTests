@@ -1,3 +1,12 @@
+// In this challenge we are going to create a simple search tool using javascript and react. You should use ONLY JavaScript and React (No JSX, jQuery, or other libraries). 
+// Start by watching the following video: removed
+
+// You will use the following as a starting template: removed
+
+// React state model: - getInitialState - componentDidMount - setState - this.state.xyz You can use React.createElement 
+
+
+
 let App_start = React.createClass({
   
     getInitialState() {
